@@ -36,7 +36,10 @@ The interface is inspired by different aspects across the native apps of Nothing
   <img src="assets/folders.png" width="230" alt="Organización mediante carpetas" />
   &nbsp;&nbsp;
   <img src="assets/swipe-delete.png" width="230" alt="Acciones mediante gestos" />
+  <img src="assets/widget.png" width="230" alt="Settings" />
 </div>
+
+
 
 ---
 
