@@ -52,6 +52,7 @@ The interface is inspired by different aspects across the native apps of Nothing
 - **Emojis** — Noto emojis keep the minimalist and simplicity in the app.
 - **Share** — Need to share ideas? Copy a plain text of your note and send it somewhere.
 - **Date and hour** — Every note saves the last time it was modified.
+- **Widgets** — Access your notes from your homescreen, quick and simple.
 ---
 
 
